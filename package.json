@@ -1,0 +1,14 @@
+{
+  "name": "pacman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pacmen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zenobia Reeds",
+  "license": "ISC",
+  "dependencies": {
+    "zaere": "file:..\\.."
+  }
+}
